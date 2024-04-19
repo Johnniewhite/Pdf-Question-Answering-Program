@@ -1,1 +1,6 @@
 cohere
+langchain
+PyPDF2
+streamlit
+tempfile
+os
